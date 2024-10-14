@@ -1,0 +1,15 @@
+Query GET_USER {
+  users{
+    id
+    userName
+  }
+
+  }
+
+  Query GET_USERS {
+  users{
+    id
+    userName
+  }
+
+  }
